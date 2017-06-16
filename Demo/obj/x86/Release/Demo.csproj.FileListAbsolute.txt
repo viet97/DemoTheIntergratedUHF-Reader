@@ -1,0 +1,35 @@
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe.config
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe.manifest
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.application
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.pdb
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\RfidApiLib.dll
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\RfidApiLib.pdb
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\ResolveAssemblyReference.cache
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.Form1.resources
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.Properties.Resources.resources
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.csproj.GenerateResource.Cache
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.TrustInfo.xml
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.exe.manifest
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.application
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.exe
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.pdb
+E:\MarkTrace\Source Code\UHF Reader\一体机-Intergrated Reader\C# C++\一体机二次开发文档-中英文版本-2012-2-22整理\演示软件源代码-Demo Source Code\演示软件源代码-Demo Source Code-C#\C# Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe.config
+E:\MarkTrace\Source Code\UHF Reader\一体机-Intergrated Reader\C# C++\一体机二次开发文档-中英文版本-2012-2-22整理\演示软件源代码-Demo Source Code\演示软件源代码-Demo Source Code-C#\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.exe
+E:\MarkTrace\Source Code\UHF Reader\一体机-Intergrated Reader\C# C++\一体机二次开发文档-中英文版本-2012-2-22整理\演示软件源代码-Demo Source Code\演示软件源代码-Demo Source Code-C#\C# Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.Form1.resources
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.Properties.Resources.resources
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.csproj.GenerateResource.Cache
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.TrustInfo.xml
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.exe
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe.config
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe.manifest
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.application
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.exe
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\Demo.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\RfidApiLib.dll
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Release\RfidApiLib.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.exe.manifest
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Release\Demo.application

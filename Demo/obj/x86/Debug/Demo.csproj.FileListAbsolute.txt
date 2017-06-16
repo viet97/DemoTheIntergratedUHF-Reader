@@ -1,0 +1,16 @@
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\Demo.exe.config
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\Demo.exe.manifest
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\Demo.application
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\Demo.exe
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\Demo.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\RfidApiLib.dll
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\bin\x86\Debug\RfidApiLib.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.TrustInfo.xml
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.exe.manifest
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.application
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.exe
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\Quoc Viet Dang\Desktop\Demo For The Intergrated UHF Reader\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache

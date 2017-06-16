@@ -1,0 +1,81 @@
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.exe
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.pdb
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\bin\Release\Demo.exe.manifest
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\bin\Release\Demo.application
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\bin\Release\Demo.exe
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\bin\Release\Demo.pdb
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\bin\Release\DesktopRfidApi.dll
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\ResolveAssemblyReference.cache
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.Form1.resources
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.TrustInfo.xml
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.exe.manifest
+E:\读写器开发项目\UHF READER 资料\UHF.Net Demo\C#Demo\Demo\obj\Release\Demo.application
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.exe
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.pdb
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\ResolveAssemblyReference.cache
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.Form1.resources
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.exe.manifest
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.application
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.exe
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.pdb
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\RfidApiLib.dll
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\RfidApiLib.pdb
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.TrustInfo.xml
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.exe.manifest
+E:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.application
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.exe.config
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.exe
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.pdb
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.exe.manifest
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.application
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.exe
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\Demo.pdb
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\RfidApiLib.dll
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\bin\Release\RfidApiLib.pdb
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\ResolveAssemblyReference.cache
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.Form1.resources
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.Properties.Resources.resources
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.TrustInfo.xml
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.exe.manifest
+F:\读写器开发项目\UHF READER 资料\UHF.Net API & Demo\C#Demo\Demo\obj\Release\Demo.application
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe.config
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.exe
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.pdb
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe.manifest
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.application
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.pdb
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\RfidApiLib.dll
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\RfidApiLib.pdb
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\ResolveAssemblyReference.cache
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.Form1.resources
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.Properties.Resources.resources
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.TrustInfo.xml
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.exe.manifest
+E:\测试完成\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.application
+F:\TEST\一体机\C# Demo\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe.config
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe.config
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe.manifest
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.application
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.pdb
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\RfidApiLib.dll
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\RfidApiLib.pdb
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.Form1.resources
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.TrustInfo.xml
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.exe.manifest
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.application
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.exe
+C:\Users\Huang Wen\Desktop\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.pdb
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\bin\Release\Demo.exe.config
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.exe
+E:\MarkTrace\Source Code\UHF Reader\大小一体机\C# Demo For The Intergrated UHF Reader\Demo\obj\Release\Demo.pdb
